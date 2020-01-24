@@ -3,6 +3,6 @@
 
 実装済みのソートアルゴリズム一覧
 
-1. [基本交換法(隣接交換法・バブルソート)](/bubble-sort)
-1. [基本選択法(選択ソート)](/selection-sort)
-1. [基本挿入法(挿入ソート)](/insertion-sort)
+1. [基本交換法(隣接交換法・バブルソート)](/bubble-sort/src/main.rs)
+1. [基本選択法(選択ソート)](/selection-sort/src/main.rs)
+1. [基本挿入法(挿入ソート)](/insertion-sort/src/main.rs)
