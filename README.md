@@ -16,4 +16,4 @@
 1. 線形探索法
     - [逐次探索法](/linear-search/src/main.rs)
     - [番兵法](/sentinel-search/src/main.rs)
-1. 二分探索法
+1. [二分探索法](/binary-search/src/main.rs)
