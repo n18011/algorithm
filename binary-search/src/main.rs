@@ -30,6 +30,7 @@ fn main() {
         if v[k] < x {low = k + 1;}
         // 目的の値が中間の値より小さければその一つ左隣の値を最小値とする
         if v[k] > x {
+            // Rustのindex番号はusizeで−の値は指定できないため、index番号が0になった時点でloopを抜ける
             if k != 0 {
                 high = k - 1;
             } else {
